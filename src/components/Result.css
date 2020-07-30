@@ -1,0 +1,14 @@
+.result {
+  height: 500px;
+  align-items: center;
+  font-size: 1.4em;
+  background-color: #e0e1e6;
+  color: #888888;
+  padding: 1em;
+  outline: 1px solid #888888;
+}
+
+.resultHeader{
+text-align: center;
+font-weight: normal;
+}
